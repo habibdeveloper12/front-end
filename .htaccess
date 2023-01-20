@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTPS}off
+RewriteRule (.*) http:michigansbestgolfdeals.com/%{REQUEST_URI}

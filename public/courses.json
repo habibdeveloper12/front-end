@@ -1,0 +1,62 @@
+[
+      {
+            "name": "Bangla Course",
+            "category": "education",
+            "price": 470,
+            "courseTitle": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus, dolor!",
+            "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo esse commodi doloremque culpa numquam voluptates eligendi, eius pariatur nesciunt suscipit molestiae eveniet, in omnis. Minus.",
+            "images": {
+                  "public_id": "xxxx",
+                  "url": "https://cdn5.vectorstock.com/i/1000x1000/28/49/business-training-and-teamwork-statistics-graphic-vector-24722849.jpg"
+            },
+            "Stock": 100
+      },
+      {
+            "name": "English Course",
+            "category": "education",
+            "price": 29,
+            "courseTitle": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus, dolor!",
+            "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo esse commodi doloremque culpa numquam voluptates eligendi, eius pariatur nesciunt suscipit molestiae eveniet, in omnis. Minus.",
+            "images": {
+                  "public_id": "xxxx",
+                  "url": "https://media.istockphoto.com/id/944946126/vector/business-woman-making-presentation-training-or-conference-report-to-group-of-businesspeople.jpg?s=612x612&w=0&k=20&c=Z1UKvWNEydEjL0Lk0U-Z2ZVlpCgkN4Gx2qFZcO1mkM4="
+            },
+            "Stock": 100
+      },
+      {
+            "name": "Math Course",
+            "category": "education",
+            "price": 29,
+            "courseTitle": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus, dolor!",
+            "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo esse commodi doloremque culpa numquam voluptates eligendi, eius pariatur nesciunt suscipit molestiae eveniet, in omnis. Minus.",
+            "images": {
+                  "public_id": "xxxx",
+                  "url": "https://thumbs.dreamstime.com/b/business-seminar-speaker-doing-presentation-professional-training-marketing-sales-e-commerce-flat-illustration-74591093.jpg"
+            },
+            "Stock": 100
+      },
+      {
+            "name": "Islam Course",
+            "category": "education",
+            "price": 29,
+            "courseTitle": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus, dolor!",
+            "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo esse commodi doloremque culpa numquam voluptates eligendi, eius pariatur nesciunt suscipit molestiae eveniet, in omnis. Minus.",
+            "images": {
+                  "public_id": "xxxx",
+                  "url": "https://media.istockphoto.com/id/1184658011/vector/people-at-the-seminar-presentation-conference-vector-illustration-business-training-coaching.jpg?s=170667a&w=0&k=20&c=XvHmounNj4U_ye91U3E-CtcZOhrGfeERTbCBJxvSmkQ="
+            },
+            "Stock": 100
+      },
+      {
+            "name": "Economic Course",
+            "category": "education",
+            "price": 29,
+            "courseTitle": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus, dolor!",
+            "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo esse commodi doloremque culpa numquam voluptates eligendi, eius pariatur nesciunt suscipit molestiae eveniet, in omnis. Minus.",
+            "images": {
+                  "public_id": "xxxx",
+                  "url": "https://thumbs.dreamstime.com/b/business-conference-presentation-people-lecture-seminar-team-meeting-manager-vector-illustration-successful-businesswoman-179857309.jpg"
+            },
+            "Stock": 100
+      }
+]
